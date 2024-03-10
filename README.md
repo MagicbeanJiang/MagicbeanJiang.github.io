@@ -1,44 +1,11 @@
-# Headline
-ABCDEFG
-HIJ
+# Welcome to Magicbean's World
+freshman at Tsinghua Univ.
 
-ABC
+>This is used to take record of my accomplishment
 
-# head1
-abdkjfsjio
-## head2
-band
+# ImageProcessing
+two week's visit to `MoriLab,Nagoya Univ`.(2024.1.22-2024.2.5)
 
-### head3
-#### head4
-##### head5
+about image processing and deep learning.
 
-and
-
-
-> An awesome project.
-
-> taijule！！！
-
-`NIU`
-
-```python
-a + b = 3
-print(4)
-```
-
-```c++
-#include<iostream>
-using namespace std;
-int main(){
-    return 0;
-}
-```
-
-$\alpha$ abc
-
-$\sqrt{3}$
-
-$\sum_{i=1}^{n}{i}$
-
-[testing](https://github.com)
+>[clickhere] to learn more about my experince
