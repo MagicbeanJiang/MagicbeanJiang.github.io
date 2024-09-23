@@ -1,5 +1,5 @@
 # Welcome to Magicbean's World
-freshman at Tsinghua Univ.
+sophomore at Tsinghua Univ.
 
 >This is used to take record of my accomplishment
 
