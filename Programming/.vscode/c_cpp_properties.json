@@ -1,0 +1,16 @@
+{
+    "configurations": [
+      {
+        "name": "Win32",
+        "includePath": ["${workspaceFolder}/**","C:\\Users\\magic\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\8.1.0\\include"],
+        "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+        "windowsSdkVersion": "10.0.18362.0",
+        "compilerPath": "C:/Users/magic/mingw64/bin/g++.exe",
+        "cStandard": "c17",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "gcc-x64",
+        "configurationProvider": "ms-vscode.cpptools"
+      }
+    ],
+    "version": 4
+  }
